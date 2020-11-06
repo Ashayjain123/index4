@@ -1,0 +1,48 @@
+header h1 {
+    color: orange;
+    text-align: center;
+    font-size: 300;
+    font-weight: normal;
+}
+header p span{
+   color:white;
+   font-size :165%;
+   font-weight:normal;
+}
+header p{
+   
+   font-size:145%;
+   font-weight: normal;
+}
+.highlight {
+   background-color: orange;
+}
+body p span {
+   color:green;
+   font-size :145%;
+    font-weight: normal;
+}
+
+
+aside .highlight {
+   background-color: black;
+}
+aside p{
+   color: wheat;
+   text-align: center;
+   font-size: 145;
+   font-weight: normal;
+}
+
+
+footer  {
+   background-color: gray;
+   padding: 30px;
+   border:3px solid black;  
+}
+FOOTER H2 {
+   color: darkkhaki;
+   font-size: 250;
+   font-weight: normal;
+   text-align: center;
+}
